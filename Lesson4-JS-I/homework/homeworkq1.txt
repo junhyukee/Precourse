@@ -1,0 +1,5 @@
+Variable - A method of storing a value to use
+String - Block of text
+Function - A method to use an input to produce an output
+if statement - A method to have an output depending on whether something is true or false
+Boolean Variable - True or false
