@@ -1,0 +1,4 @@
+for - a loop that goes over and over until a condition is met
+& - and: both conditions are met
+|| - or: one or more condition(s) are met
+! - not: following statement is not true
