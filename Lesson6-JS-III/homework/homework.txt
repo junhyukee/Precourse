@@ -1,0 +1,1 @@
+Array - Storage for data that can be easily accessed
