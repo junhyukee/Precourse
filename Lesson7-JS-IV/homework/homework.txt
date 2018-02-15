@@ -1,0 +1,5 @@
+Objects - holds information that is related to each other
+Properties - a property of the object that is further defined
+Methods - a function used within an object
+for in loop - a for loop that loops over all keys within the object
+dot notation vs bracket notation - dot notation calls for the object with the key, bracket notation requires a string/number
