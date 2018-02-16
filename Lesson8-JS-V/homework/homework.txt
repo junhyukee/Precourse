@@ -1,0 +1,2 @@
+prototype - setting a method once and giving class methods without using as much memory
+constructor - a method to use a template over and over again without copying it
