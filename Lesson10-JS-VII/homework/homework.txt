@@ -1,0 +1,1 @@
+closure - a method to call a function within a function while retaining variables
